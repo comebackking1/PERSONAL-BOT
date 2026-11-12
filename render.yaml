@@ -15,9 +15,9 @@ services:
       - key: TIMEZONE
         value: "Asia/Karachi"
       - key: MONGO_URL
-        value: ""
+        value: "mongodb+srv://highestmybot_db_user:Despite121212@cluster0.gkwbfqn.mongodb.net/?retryWrites=true&w=majority"
       - key: POSTGRES_URL
-        value: ''mongodb+srv://highestmybot_db_user:Despite121212@cluster0.gkwbfqn.mongodb.net/?retryWrites=true&w=majority"
+        value: ""
       - key: MYSQL_URL
         value: ""
       - key: DB_URL
