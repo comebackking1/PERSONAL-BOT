@@ -5,19 +5,19 @@ services:
     dockerfilePath: lib/Dockerfile
     envVars:
       - key: SESSION_ID
-        value: ""
+        value: "GlobalTechInfo/MEGA-MD_10654f5890dcf27aa5547065e1d54606"
       - key: OWNER_NUMBER
-        value: "923000000000"
+        value: "233536688884"
       - key: BOT_NAME
-        value: "MEGA-MD"
+        value: "HIGHEST ASSISTANT"
       - key: COMMAND_MODE
-        value: "public"
+        value: "private"
       - key: TIMEZONE
         value: "Asia/Karachi"
       - key: MONGO_URL
         value: ""
       - key: POSTGRES_URL
-        value: ""
+        value: ''mongodb+srv://highestmybot_db_user:Despite121212@cluster0.gkwbfqn.mongodb.net/?retryWrites=true&w=majority"
       - key: MYSQL_URL
         value: ""
       - key: DB_URL
